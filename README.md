@@ -1,7 +1,5 @@
 # daily_reminder
-给女朋友做的微信天气推送
 
-教程链接
 
 https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shareUid=3198334&shareFrom=com.coolapk.app_4.10
 
@@ -44,4 +42,3 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 
 
-有别的建议欢迎留言
